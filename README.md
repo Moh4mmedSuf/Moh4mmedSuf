@@ -1,5 +1,7 @@
-### Hi there 👋
- 🌱 I’m currently learning MySQL & Power bi 
+### Hi there 👋 I'm Mohammed Sufyan
+🌱 I’m currently learning MySQL & Power bi 
+🔭 I'm currently working on new Projects 
+📫 How to reach me: Twitter (X) @O_mo0ode_O
 <!--
 **Moh4mmedSuf/Moh4mmedSuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

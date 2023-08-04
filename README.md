@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ 🌱 I’m currently learning MySQL & Power bi 
 <!--
 **Moh4mmedSuf/Moh4mmedSuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

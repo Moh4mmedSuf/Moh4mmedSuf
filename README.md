@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohammed Sufyan
-- 🌱 I’m currently learning MySQL & Power bi 
+- 🌱 I’m currently learning MySQL & Power bi & Python & machine learning
 - 🔭 I'm currently working on new Projects 
 - 📫 How to reach me: Twitter (X) @O_mo0ode_O
 <!--
